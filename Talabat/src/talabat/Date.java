@@ -9,6 +9,7 @@ public class Date {
 
     public int getDay() {
         return day;
+        
     }
 
     public int getMonth() {
