@@ -10,7 +10,6 @@ public class Custmer extends User{
         this.mobilenumber=mobilenumber;
     }
     
-    
     public void Register() {
         
     }
