@@ -6,4 +6,5 @@ public class System {
       
       public  Restaurant[] restaurants=new Restaurant[50];
       
+      
 }
