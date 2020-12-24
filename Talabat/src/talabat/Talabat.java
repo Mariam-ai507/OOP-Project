@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package talabat;
-
+import java.util.Scanner;
 /**
  *
  * @author pc
@@ -16,6 +16,7 @@ public class Talabat {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Scanner input= new Scanner(System.in);
     }
     
 }
